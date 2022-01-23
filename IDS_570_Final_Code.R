@@ -1,7 +1,6 @@
 #############################################
 ###### IDS_570_Project_code ######          #
 ## FHCS_2006_dataset ###                    #
-## Iram, Navya, Prashansa, Praveen, Renuka ##
 #############################################
 
 # setting seed and Loading Libraries ##
